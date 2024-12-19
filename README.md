@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
------
 🌱 I’m currently learning Machine Learning.<br />
 👀 I'm interested in Web Development.<br />
 📫 How to reach me: ([kashishagrawal883@gmail.com])
